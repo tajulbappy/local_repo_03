@@ -2,3 +2,9 @@ This is a text area..
 
 wer can write here for some information :
 
+* ckeckout for switching branch
+* mkdir for making new folder
+* ls for total file and folder exist
+* git branch for showing all branch
+
+
